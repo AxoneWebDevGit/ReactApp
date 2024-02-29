@@ -1,1 +1,3 @@
 C:\Om\Project\ReactCore8\ReactApp\reactapp.client\obj\Debug\reactapp.client.esproj.CoreCompileInputs.cache
+C:\Om\GitRepo\ReactCore8\ReactApp\reactapp.client\obj\Debug\reactapp.client.esproj.CoreCompileInputs.cache
+D:\Om\GitRepo\ReactCore8\ReactApp\reactapp.client\obj\Debug\reactapp.client.esproj.CoreCompileInputs.cache

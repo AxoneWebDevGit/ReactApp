@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "l0o9qoIddzu0/rsNVFmns6OjmHUdjsvODdKw0tX9+k4=",
+  "Hash": "+IsgrS7JVDo+QTW6VdIrB1eb15QiR0z8jbSvxCr8p3Q=",
   "Source": "ReactApp.Server",
   "BasePath": "_content/ReactApp.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Om\\Project\\ReactCore8\\ReactApp\\reactapp.client\\reactapp.client.esproj",
+      "Identity": "D:\\Om\\GitRepo\\ReactCore8\\ReactApp\\reactapp.client\\reactapp.client.esproj",
       "Version": 2,
       "Source": "reactapp.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

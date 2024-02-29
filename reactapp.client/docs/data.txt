@@ -1,0 +1,11 @@
+For api versioning
+
+https://www.c-sharpcorner.com/article/api-versioning-in-asp-net-core-web-api/
+//Install-Package Microsoft.AspNetCore.Mvc.Versioning -Version 5.0.0
+
+for error in {vite.config.ts}
+npm install --save-dev typescript@latest
+npm install --save-dev @types/node
+
+
+

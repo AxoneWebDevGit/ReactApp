@@ -35,7 +35,8 @@ if (!fs.existsSync(certFilePath) || !fs.existsSync(keyFilePath)) {
         throw new Error("Could not create certificate.");
     }
 }
-
+//npm install --save-dev @types/node
+//npm install--save - dev typescript @latest
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [plugin()],
